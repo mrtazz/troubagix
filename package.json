@@ -1,0 +1,10 @@
+{
+  "name": "troubagix",
+  "description": "A Github aware IRC bot",
+  "version": "0.0.1",
+  "author": "Steffen Jaeckel <s@jaeckel.eu>, Daniel Schauenberg <d@unwiredcouch.com>",
+  "dependencies": {
+    "irc": ">= 0.2.x"
+  },
+  "engine": "node 0.4.10"
+}
