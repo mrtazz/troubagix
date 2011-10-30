@@ -1,1 +1,1 @@
-web: node lib/troubagix.js
+app: node lib/troubagix.js
